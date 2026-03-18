@@ -37,7 +37,7 @@ Permiten mostrar información.
 1. LCD
 2. OLED
 
-# FICHA TECNICA, PINES DE CONEXION
+# FICHA TECNICA
 1. Microcontrolador: ATmega328P
 2. Voltaje de operación: 5V
 3. Voltaje de entrada: 7V - 12V
@@ -50,6 +50,25 @@ Permiten mostrar información.
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/2f3c0f80-8e9b-4525-b1ea-a073be7d454c" />
 
+## PINES DE CONEXION
+1.1 Pines digitales (0 - 13)
+1.2 Entrada y salida digital
+
+Algunos soportan PWM (~)
+
+🔵 Pines analógicos (A0 - A5)
+
+Lectura de señales analógicas
+
+🔴 Pines de alimentación
+
+5V
+
+3.3V
+
+GND (tierra)
+
+Vin
 
 # ARQUITECTURA, VENTAJAS Y FUNCIONALIDAD 
 
