@@ -8,6 +8,8 @@ Fue creada en 2005 en Italia en el Interaction Design Institute Ivrea con el obj
 3. Tom Igoe
 4. Gianluca Martino
 5. David A. Mellis
+<img width="371" height="251" alt="image" src="https://github.com/user-attachments/assets/9a97e5e3-9a18-4708-8720-4560c3bf763e" />
+
 
 # PERIFERICOS DE ARDUINO Y SU USO
 Arduino puede interactuar con múltiples periféricos que permiten ampliar sus funcionalidades:
