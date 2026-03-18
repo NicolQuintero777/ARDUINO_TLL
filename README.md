@@ -91,8 +91,12 @@ Arduino no solo es una herramienta para proyectos, sino también para el aprendi
 ### Economía y Accesibilidad:
 La asequibilidad de Arduino es un factor crucial, especialmente para estudiantes y entusiastas con presupuestos limitados. Ofrece una solución económica para crear prototipos y proyectos electrónicos, lo que lo convierte en una opción viable para personas de todas las edades.
 
-
-
+## FUNCIONALIDAD 
+El funcionamiento general sigue estos pasos:
+1. Entrada de datos: Arduino recibe información desde sensores o dispositivos conectados a sus pines.
+2. Procesamiento: el microcontrolador analiza los datos utilizando el programa cargado.
+Salida de acciones: según las instrucciones del programa, Arduino activa dispositivos como LEDs, motores, pantallas o relés.
+3. Comunicación: puede enviar o recibir información desde otros dispositivos mediante protocolos como serial, I2C o SPI.
 
 
 
