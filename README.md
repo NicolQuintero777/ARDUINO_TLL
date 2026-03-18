@@ -51,25 +51,28 @@ Permiten mostrar información.
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/2f3c0f80-8e9b-4525-b1ea-a073be7d454c" />
 
 ## PINES DE CONEXION
-1.1 Pines digitales (0 - 13)
-1.2 Entrada y salida digital
+### Pines digitales (0 - 13)
+1. Entrada y salida digital
+2. Algunos soportan PWM (~)
 
-Algunos soportan PWM (~)
+### Pines analógicos (A0 - A5)
+1. Lectura de señales analógicas
 
-🔵 Pines analógicos (A0 - A5)
-
-Lectura de señales analógicas
-
-🔴 Pines de alimentación
-
-5V
-
-3.3V
-
-GND (tierra)
-
-Vin
+### Pines de alimentación
+1. 5V
+2. 3.3V
+3. GND (tierra)
+4. Vin
 
 # ARQUITECTURA, VENTAJAS Y FUNCIONALIDAD 
+Arduino está basado en una arquitectura de microcontrolador:
+CPU (ATmega328P)
+Memoria (Flash, SRAM, EEPROM)
+Entradas y salidas digitales/analógicas
+Temporizadores internos
+Comunicación serial
+Funciona mediante un programa (sketch) que se carga desde el computador y se ejecuta continuamente.
+
+![Image](https://github.com/user-attachments/assets/1d92692e-d634-4d2e-8f1f-f8b47e8e962d)
 
 
