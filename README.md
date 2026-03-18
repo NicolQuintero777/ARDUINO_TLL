@@ -1,4 +1,6 @@
 # ARDUINO_TLL
+### MIGUEL ANGEL MEJIA AYALA
+### NICOLLE ALEXANDRA QUINTERO MORENO
 Se hara una breve explicacion del Arduino
 # HISTORIA DE ARDUINO
 Es una plataforma de hardware basada en un microcontrolador principalmente Atmel AVR montado en una PCB(Printed Circuit Board o Placa de Circuito Impreso) con los elementos esenciales para su funcionamiento pensado para proyectos electricos multidisciplinarias. 
@@ -64,15 +66,44 @@ Permiten mostrar información.
 3. GND (tierra)
 4. Vin
 
-# ARQUITECTURA, VENTAJAS Y FUNCIONALIDAD 
-Arduino está basado en una arquitectura de microcontrolador:
-CPU (ATmega328P)
-Memoria (Flash, SRAM, EEPROM)
-Entradas y salidas digitales/analógicas
-Temporizadores internos
-Comunicación serial
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/2b1c5d7c-d418-4c79-a637-cd03c9f33344" />
+
+
+# ARQUITECTURA 
+Arduino está basado en una arquitectura de microcontrolador: CPU (ATmega328P), Memoria (Flash, SRAM,EEPROM), Entradas y salidas digitales/analógicas, Temporizadores internos, Comunicación serial
 Funciona mediante un programa (sketch) que se carga desde el computador y se ejecuta continuamente.
 
 ![Image](https://github.com/user-attachments/assets/1d92692e-d634-4d2e-8f1f-f8b47e8e962d)
+
+## VENTAJAS
+### Facilidad de Uso:
+La curva de aprendizaje en Arduino es suave, incluso para principiantes sin experiencia en programación o electrónica. Su entorno de desarrollo integrado (IDE) es amigable y utiliza un lenguaje de programación simplificado basado en C/C++.
+### Diversidad de Placas y Módulos:
+Una de las fortalezas de Arduino radica en su variedad de placas y módulos. Desde opciones básicas hasta modelos avanzados con conectividad y capacidad de control expandidas, Arduino tiene una solución para cada proyecto. Esto asegura que puedas seleccionar la plataforma adecuada para tus necesidades específicas.
+### Enorme Comunidad y Recursos:
+La comunidad de Arduino es una fuente inagotable de conocimiento y apoyo. La abundancia de tutoriales, documentación, ejemplos de código y foros en línea facilita la resolución de problemas y fomenta el aprendizaje colaborativo. Encontrar soluciones y compartir tus propios proyectos nunca ha sido tan sencillo.
+### Compatibilidad de Componentes:
+Arduino es compatible con una amplia gama de sensores, actuadores y otros componentes electrónicos. Esto significa que puedes crear proyectos interactivos y conectados al mundo real con relativa facilidad.
+### Versatilidad y Adaptabilidad:
+La flexibilidad de Arduino es impresionante. Puedes aplicarlo en diversas áreas, desde la educación y la creación artística hasta el control industrial y la investigación científica. Su capacidad para adaptarse lo convierte en un recurso valioso para múltiples disciplinas.
+### Enfoque en el Aprendizaje:
+Arduino no solo es una herramienta para proyectos, sino también para el aprendizaje. Es una manera práctica de explorar conceptos de electrónica y programación.
+### Economía y Accesibilidad:
+La asequibilidad de Arduino es un factor crucial, especialmente para estudiantes y entusiastas con presupuestos limitados. Ofrece una solución económica para crear prototipos y proyectos electrónicos, lo que lo convierte en una opción viable para personas de todas las edades.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
